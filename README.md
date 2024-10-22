@@ -1,6 +1,4 @@
-Here's a structured README file for your **Real-Time Data Processing System for Weather Monitoring** project, following the specified format and highlighting key sections:
 
----
 
 # Real-Time Data Processing System for Weather Monitoring
 
@@ -38,15 +36,16 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 2. **Weather Update Processing**:
    - Convert temperature from Kelvin to Celsius.
 
-## Rollups and Aggregates
-<img src="" alt="">
+## home
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/profile1.jpg?raw=true" alt="">
+
 ### Daily Weather Summary
 - Roll up data for each day and calculate:
   - Average temperature
   - Maximum temperature
   - Minimum temperature
   - Dominant weather condition
-<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/profile1.jpg?raw=true" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/summary.jpg?raw=true" alt="">
 ### Alerting Thresholds
 - Define user-configurable thresholds for temperature/weather conditions.
 - Track weather data continuously and compare it with thresholds.
