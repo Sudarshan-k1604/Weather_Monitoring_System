@@ -70,7 +70,7 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 
 5. **Alerting Thresholds**:
    - Define thresholds and simulate weather data exceeding those thresholds.
-<img src="" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/temp1.jpg?raw=true" alt="">
 ## Bonus Features
 - Support additional weather parameters (e.g., humidity, wind speed) in rollups/aggregates.
 - Retrieve weather forecasts and generate summaries based on predicted conditions.
