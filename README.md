@@ -50,7 +50,7 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 - Define user-configurable thresholds for temperature/weather conditions.
 - Track weather data continuously and compare it with thresholds.
 - Trigger alerts if thresholds are breached (console notifications or email).
-<img src="" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/error.jpg?raw=true" alt="">
 ## Implement Visualizations
 - Display daily summaries, historical trends, and alerts.
 <img src="" alt="">
