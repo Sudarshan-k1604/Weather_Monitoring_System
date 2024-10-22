@@ -46,7 +46,7 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
   - Maximum temperature
   - Minimum temperature
   - Dominant weather condition
-<img src="" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/profile1.jpg?raw=true" alt="">
 ### Alerting Thresholds
 - Define user-configurable thresholds for temperature/weather conditions.
 - Track weather data continuously and compare it with thresholds.
