@@ -39,22 +39,22 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
    - Convert temperature from Kelvin to Celsius.
 
 ## Rollups and Aggregates
-
+<img src="" alt="">
 ### Daily Weather Summary
 - Roll up data for each day and calculate:
   - Average temperature
   - Maximum temperature
   - Minimum temperature
   - Dominant weather condition
-
+<img src="" alt="">
 ### Alerting Thresholds
 - Define user-configurable thresholds for temperature/weather conditions.
 - Track weather data continuously and compare it with thresholds.
 - Trigger alerts if thresholds are breached (console notifications or email).
-
+<img src="" alt="">
 ## Implement Visualizations
 - Display daily summaries, historical trends, and alerts.
-
+<img src="" alt="">
 ## Test Cases
 
 1. **System Setup**:
@@ -71,11 +71,11 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 
 5. **Alerting Thresholds**:
    - Define thresholds and simulate weather data exceeding those thresholds.
-
+<img src="" alt="">
 ## Bonus Features
 - Support additional weather parameters (e.g., humidity, wind speed) in rollups/aggregates.
 - Retrieve weather forecasts and generate summaries based on predicted conditions.
-
+<img src="" alt="">
 ## Evaluation Criteria
 - Functionality and correctness of the system.
 - Accuracy in data parsing, conversion, and aggregate calculations.
