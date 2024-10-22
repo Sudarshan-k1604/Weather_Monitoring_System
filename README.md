@@ -53,7 +53,7 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 <img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/error.jpg?raw=true" alt="">
 ## Implement Visualizations
 - Display daily summaries, historical trends, and alerts.
-<img src="" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/city1.jpg?raw=true" alt="">
 ## Test Cases
 
 1. **System Setup**:
@@ -74,7 +74,7 @@ The **Real-Time Data Processing System** is a dynamic application designed to co
 ## Bonus Features
 - Support additional weather parameters (e.g., humidity, wind speed) in rollups/aggregates.
 - Retrieve weather forecasts and generate summaries based on predicted conditions.
-<img src="" alt="">
+<img src="https://github.com/Sudarshan-k1604/Weather_Monitoring_System/blob/master/assests/pi.jpg?raw=true" alt="">
 ## Evaluation Criteria
 - Functionality and correctness of the system.
 - Accuracy in data parsing, conversion, and aggregate calculations.
